@@ -1,4 +1,4 @@
-# 🧪 Breast Cancer Tumor Classification: An Easy-to-Understand Overview
+# 🧪 Breast Cancer Tumor Classification:
 
 ## 👩‍⚕️ Author
 
