@@ -47,14 +47,14 @@ We started simple by using only **radius** and **texture** to predict tumor type
 - Box plots showed clear visual differences between tumor types.
 - 🧠 **Conclusion:** In short, the results show that radius and texture are useful for identifying tumor type, although other factors might also improve predictions.
 
-### 📷 Box Plot (PLACEHOLDER)
+### 📷 Box Plot
 
 - ![Radius Box Plot Placeholder](radius-boxplot.png)
 - ![Texture Box Plot Placeholder](texture-boxplot.png)
 
 ---
 
-### 🧪 Experiment 2: All Features
+### 🧪 Experiment 2: 5 Features
 
 We then used a set of carefully selected features—**radius_mean, texture_mean, perimeter_mean, area_mean, and concavity_mean**—to improve the model.
 
@@ -63,7 +63,7 @@ We then used a set of carefully selected features—**radius_mean, texture_mean,
 - Histograms of the predicted probabilities showed a **clear separation** between malignant and benign cases.
 - 🧠 **Conclusion:** The specific combination of selected features played a significant role in improving the model's performance, indicating that thoughtful feature selection can greatly enhance prediction quality.
 
-### 📷 Accuracy Comparison Chart (PLACEHOLDER)
+### 📷 Accuracy Comparison Chart 
 
 ![Accuracy Comparison Chart Placeholder](accuracy-comparison-plot.png)
 
