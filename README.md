@@ -2,7 +2,7 @@
 
 ## 👩‍⚕️ Author
 
-**Your Name**  
+**Name:** Natali Kostadinovic  
 **Date:** 12/01/2024
 
 ---
